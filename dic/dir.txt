@@ -3026,7 +3026,7 @@ wp-login
 xlogin
 yonetici.html
 yonetim.html
-假地�
+åå°å
 admin_move
 g_admin
 acquire
@@ -12629,4 +12629,3 @@ userdb
 .backup
 .exe
 .htm
-
